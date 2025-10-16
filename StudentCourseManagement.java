@@ -19,7 +19,6 @@ class SimpleStudent {
 }
 
 public class SimpleStudentCourse extends JFrame implements ActionListener {
-
     private HashMap<Integer, SimpleStudent> students = new HashMap<>();
     private ArrayList<String> courses = new ArrayList<>();
 
